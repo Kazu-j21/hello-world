@@ -31,6 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>with Jenkins, Tomcat, Docker, Anisble</h1>
-   <p> version:5.0 </p>
+   <h1>with Jenkins, Tomcat, Docker, Anisble, Kubernetes</h1>
+   <p> version:6.0 </p>
 </form>
