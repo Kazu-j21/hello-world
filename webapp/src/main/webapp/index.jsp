@@ -32,5 +32,5 @@
   </div>
 
    <h1>with Jenkins, Tomcat, Docker, Anisble</h1>
-   <p> version:4.5 </p>
+   <p> version:5.0 </p>
 </form>
