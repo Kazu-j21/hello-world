@@ -32,5 +32,5 @@
   </div>
 
    <h1>with Jenkins, Tomcat, Docker, Anisble, Kubernetes</h1>
-   <p> version:8.0 </p>
+   <p> version:8.5 </p>
 </form>
